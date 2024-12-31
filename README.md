@@ -4,11 +4,11 @@ LinkFlow is a modern and customizable plataform that allows users to centralize 
 
 ---
 
-##Feature
- -**User Management**: Full CRUD functionality for user accounts.
- -**Authentication**: Secure authentication using JWT with refresh tokens.
- -**Link Management**: CRUD operations for managing user links.
- -**Customizable Profile**: Users can personalize their profile page with themes and styles.
+##Feature.<br>
+ -**User Management**: Full CRUD functionality for user accounts.<br>
+ -**Authentication**: Secure authentication using JWT with refresh tokens..<br>
+ -**Link Management**: CRUD operations for managing user links..<br>
+ -**Customizable Profile**: Users can personalize their profile page with themes and styles..<br>
  -**Containerized Deployment**: Fully deployable with Docker for seamless portability.
 
 ---
