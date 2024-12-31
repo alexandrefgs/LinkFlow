@@ -4,7 +4,7 @@ LinkFlow is a modern and customizable plataform that allows users to centralize 
 
 ---
 
-##Feature.<br>
+## Feature<br>
  -**User Management**: Full CRUD functionality for user accounts.<br>
  -**Authentication**: Secure authentication using JWT with refresh tokens..<br>
  -**Link Management**: CRUD operations for managing user links..<br>
@@ -15,33 +15,33 @@ LinkFlow is a modern and customizable plataform that allows users to centralize 
 
 ## Technologies Used
 
-### **Frontend**
- -**Framework**: Angular (Single Page Application - SPA)
+### **Frontend**<br>
+ -**Framework**: Angular (Single Page Application - SPA)<br>
  -**Stylling**: SCSS and TailwindCSS
 
-### **Backend***
- -**Framework**: ASP.NET
- -**Architecture**: RESTful APIs
- -**User API**: Handles user CRUD operations
- -**Authentication API**: Manages JWT-based authentication with refresh token capabilities.
- -**Link API**: Handles CRUD operations for user links.
+### **Backend**<br>
+ -**Framework**: ASP.NET.<br>
+ -**Architecture**: RESTful APIs.<br>
+ -**User API**: Handles user CRUD operations.<br>
+ -**Authentication API**: Manages JWT-based authentication with refresh token capabilities.<br>
+ -**Link API**: Handles CRUD operations for user links.<br>
  -**ORM**: Entity Framework Core with SQL Server.
 
-### **Database**
- -**Primary Database**: SQL Server.
+### **Database**<br>
+ -**Primary Database**: SQL Server.<br>
  -**Future Compatibility**: Structured to support migration to other database if needed (e.g, PostgreSQL, MySQL).
 
-### **Deployment**
- -**Containerization**: Docker (with Docker Compose for multi-container setup).
+### **Deployment**<br>
+ -**Containerization**: Docker (with Docker Compose for multi-container setup).<br>
  -**Cloud Hosting**: Planned for AWS or Azure for production-ready deployment.
 
-### **Testing and Documentation**
- -**Documentation**: Swagger for API documentation.
+### **Testing and Documentation**<br>
+ -**Documentation**: Swagger for API documentation.<br>
  -**Testing**: Unit and integration testing with xUnit for backend, and Jasmine/Karma for frontend.
 
 ---
 
-###Project Goals
+### Project Goals
 
 1. **Version 1.0**:
    - Fully functional SPA with user and link management features.
@@ -55,11 +55,11 @@ LinkFlow is a modern and customizable plataform that allows users to centralize 
 
 ---
 
-##Installation
+## Installation
 
-### Prerequisites
- -**Node.js**: Required for building and running the Angular frontend.
- -**Docker**: For running the backend and database in containers.
+### Prerequisites<br>
+ -**Node.js**: Required for building and running the Angular frontend.<br>
+ -**Docker**: For running the backend and database in containers.<br>
  -**SQL Server**: Local or cloud-host instance.
 
 ### Steps
@@ -94,15 +94,15 @@ LinkFlow is a modern and customizable plataform that allows users to centralize 
 
 ---
 
-##License
+## License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request.
 
 ---
 
-##Contact
+## Contact<br>
 For any questions or suggestions, fell free to reach out at alexandrefagundes2014@hotmail or https://www.linkedin.com/in/alexandre-fgs/
