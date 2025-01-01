@@ -46,7 +46,7 @@ LinkFlow is a modern and customizable plataform that allows users to centralize 
 1. **Version 1.0**:
    - Fully functional SPA with user and link management features.
    - Secure authentication with JWT and refresh tokens.
-   - Deployment usinf Docker containers.
+   - Deployment using Docker containers.
 
 2. **Future Enhancements**:
    - Advanced profile customization with dynamic themes.
